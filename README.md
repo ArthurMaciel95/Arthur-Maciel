@@ -3,8 +3,6 @@
 ## Front-end Developer - Html5 - CSS6 - ES6(JavaScript)
 ### Mobile Development Student
 
-#### :mortar_board: Graduation in Information Technology Management
-
 
 born in Brazil, Rio de Janeiro, since I was little I have always been interested in programming, and the search for knowledge in this subject that motivates me every day.
   
